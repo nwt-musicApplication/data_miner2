@@ -8,11 +8,17 @@
 数据集包括：
 
 Consumer & Visitor Insights For Neighborhoods
+
 Wine Reviews
+
 Oakland Crime Statistics 2011 to 2016
+
 Chicago Building Violations
+
 Trending YouTube Video Statistics
+
 Melbourne Airbnb Open Data
+
 MLB Pitch Data 2015-2018
 与第一次互评作业的数据集范围是相同的，在选择的时候可以选择之前预处理的数据集，也可以重新选择一个。
 
